@@ -1,0 +1,5 @@
+To check functionality use scripts:
+KeyTool/src/main/project/scripts/generate.sh
+KeyTool/src/main/project/scripts/validate.sh
+
+Use SBT to run, package or compile program.
